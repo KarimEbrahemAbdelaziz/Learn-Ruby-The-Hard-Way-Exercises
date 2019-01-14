@@ -6,4 +6,4 @@
 # puts "I'd much rather, you 'not"
 # puts 'I "said" don not touch tihs.'
 
-puts "Karim is different. ;)"
+puts 'Karim is different. ;)'
